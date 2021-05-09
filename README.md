@@ -1,5 +1,4 @@
 ### Hi 👋 ###
 
 - 🔭 I'm making games.
-- 🌱 I'm studying Meachine Learning
-- ⚡ I want to be hired...
+- 🌱 I'm studying Flutter and Design Patterns.
