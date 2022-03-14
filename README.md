@@ -1,6 +1,4 @@
-## Hi
-I am a developer who wants to be a software architect.
-Life is too short to enjoy, so we need to work as efficiently as possible to do what we really want. At that point, we need to code, code in efficient way. To do that, well-designed architecture should be under the code. No architect, there must be a disaster by bunch of tangled, complicated couplings. That's why I want to be an SA.
+### Life is too short to enjoy, so we need to work as efficiently as possible to do what we really want. At that point, we need to code, code in efficient way.
 
 
 &nbsp;
