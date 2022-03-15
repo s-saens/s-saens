@@ -4,7 +4,7 @@
 &nbsp;
 
 ## Worked at
-- GameSpring as Unity Client Programmer   April, 2021 ~ September, 2021
+- GameSpring as a Unity Client Programmer   April, 2021 ~ September, 2021
 
 &nbsp;&nbsp;&nbsp;
 
