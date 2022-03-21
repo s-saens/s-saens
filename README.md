@@ -5,8 +5,7 @@
 - Home
 
 ## Worked at
-- GameSpring, as a Unity Client Programmer    【April 2021 ~ September 2021】
-- NoGaDa for 4 days                           【January 2019】
+- GameSpring, as a Unity Client Programmer : 【April 2021 ~ September 2021】
 
 ## Languages
 - C#
@@ -16,12 +15,12 @@
 - English
 
 ## Prizes
-- 1st Oasis Hackathon - Special Prize         【January 2021】
-- 8th K-Hackathon - 2nd Prize                 【June 2020 ~ November 2020】
-- 7th K-Hackathon - 2nd Prize                 【June 2019 ~ November 2019】
+- 1st Oasis Hackathon - Special Prize : 【January 2021】
+- 8th K-Hackathon - 2nd Prize : 【June 2020 ~ November 2020】
+- 7th K-Hackathon - 2nd Prize : 【June 2019 ~ November 2019】
 
 ## Links
-- [Blog][https://saens.tistory.com/]
+- [Blog](https://saens.tistory.com/)
 
 &nbsp;&nbsp;
 
