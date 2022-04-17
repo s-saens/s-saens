@@ -1,6 +1,6 @@
 ## Studied at
 - Jeonbuk University (4/8 Semesters, GPA 3.63)
-- Starbucks with Iced Grapefruit Honey Black Tea
+- Starbucks
 
 ## Worked at
 - GameSpring, as a Unity Client Programmer : 【April 2021 ~ September 2021】
